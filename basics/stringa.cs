@@ -1,6 +1,5 @@
 ﻿using System;
-class stringa
-{
+class stringa{
      public static void Run()
     {
         Console.WriteLine("inserisci una stringa: ");
